@@ -1,0 +1,6 @@
+INFO server started
+DEBUG reading config
+WARN cache nearly full
+ERROR database unavailable
+INFO retry succeeded
+this is malformed
